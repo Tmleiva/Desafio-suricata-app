@@ -1,0 +1,67 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  .navbar{
+    background-color: #e83e8c;
+    color: #FFFFFF;
+    font-family: "Open Sans";
+  }
+
+  .navbar-brand img{
+    width: 120px;
+  }
+
+  .titulo{
+    color: #707070;
+    text-align: center;
+    font-size: 60px;
+    font-family: "open sans";
+    font-weight: bold;
+  }
+
+  .h1{
+  font-size: 60px;
+
+  }
+
+  body{
+    background-color: #FFFFFF;
+    padding: 0%
+ 
+  }
+
+  .card{
+    font-family: "Open " Sans-serif;
+    font-size: 16px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+   }
+
+  .mediosdepago{
+    background-color: #17A2B8;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Open sans";
+    font-weight: bold;
+  }
+
+  .logo{
+    background-color: #e83e8c;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 10px;
+    padding: 8px;   
+  }
+
+  .logo img{
+    width: 38px
+  }
+
+
+  footer p i {
+    font-size: 70px;
+    margin: 8px;
+    vertical-align: middle
+  }
+
